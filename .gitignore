@@ -1,0 +1,12 @@
+*pycache
+.env
+env
+homepage.html
+*/copy.html
+backend/serato/homepage.html
+backend/templates/copy.html
+
+homepage.html
+*\copy.html
+backend\serato\homepage.html
+backend\templates\copy.html
